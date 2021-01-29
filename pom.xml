@@ -23,7 +23,7 @@
         <guava.version>24.1.1-jre</guava.version>
         <apache.commons.version>3.11</apache.commons.version>
         <h2.version>1.4.191</h2.version>
-        <lombok.version>1.18.16</lombok.version>
+        <lombok.version>1.18.18</lombok.version>
         <lombok.encoding>UTF-8</lombok.encoding>
 
         <!-- Testing -->
