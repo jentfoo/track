@@ -35,7 +35,7 @@
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <lombok-maven-plugin.version>1.18.16.0</lombok-maven-plugin.version>
+        <lombok-maven-plugin.version>1.18.18.0</lombok-maven-plugin.version>
     </properties>
 
     <distributionManagement>
